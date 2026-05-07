@@ -31,7 +31,7 @@ eureka:
 
 iflow:
   timer:
-    max-retry-count: 26
+    max-retry-count: 306
 
 camunda:
   bpm:
