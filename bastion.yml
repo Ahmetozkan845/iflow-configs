@@ -38,7 +38,7 @@ security:
     roles:
       - ADMIN    
 rate-limit:
-  disabled: false
+  disabled: true
   burst-capacity: 30
   window-seconds: 1
       
